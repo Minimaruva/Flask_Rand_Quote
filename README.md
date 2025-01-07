@@ -1,0 +1,1 @@
+An example project to learn how to build a simple Flask API
