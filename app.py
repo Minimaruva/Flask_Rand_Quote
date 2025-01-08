@@ -10,7 +10,7 @@ CORS(app)
 quotes_df = pd.read_csv("./assets/quotes.csv")
 quotes_num = len(quotes_df)
 
-@app.route('/quote', methods=['GET'])
+@app.route('/', methods=['GET'])
 def get_quote():
     random_row = random.randint(1, quotes_num)
     quote = quotes_df.loc[random_row]
