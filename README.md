@@ -4,14 +4,17 @@ An example project to learn how to build and deploy a simple Flask API that serv
 
 ## Description
 
-This project is a Flask-based web application that provides random quotes from a CSV file. It demonstrates how to create a RESTful API, handle data with Pandas, and deploy the application on platforms like PythonAnywhere.
+A Flask-based web application that provides random quotes from a CSV file. It demonstrates how to create a RESTful API, handle data with Pandas, and deploy the application on platforms like PythonAnywhere.
 
 ## Features
 
 - **Random Quote API:** Fetches a random quote and its author.
-- **Frontend Integration:** Simple HTML interface to display quotes.
-- **CORS Enabled:** Allows cross-origin requests for frontend-backend communication.
-- **Deployment Ready:** Configured for deployment on PythonAnywhere.
+- **Frontend Integration:** Simple HTML + inline CSS frontend to display quotes.
+- **Deployed** Configured for deployed on PythonAnywhere.
+
+## Acknowledgments
+
+- Quotes CSV sourced from [Jakub Petriska's Gist](https://gist.github.com/JakubPetriska/060958fd744ca34f099e947cd080b540)
 
 ## Installation
 
@@ -71,6 +74,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - **Vlad Sdy** - [vladsdy](https://github.com/vladsdy)
 
-## Acknowledgments
-
-- Quotes CSV sourced from [Jakub Petriska's Gist](https://gist.github.com/JakubPetriska/060958fd744ca34f099e947cd080b540)
