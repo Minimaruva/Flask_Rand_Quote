@@ -68,5 +68,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author
 
-- **Vlad Sdy** - [vladsdy](https://github.com/vladsdy)
+- **Vlad Yahnon** - [minimaruva](https://github.com/Minimaruva)
 
