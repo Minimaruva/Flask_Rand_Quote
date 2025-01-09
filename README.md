@@ -56,15 +56,11 @@ The application can be deployed on [PythonAnywhere](https://www.pythonanywhere.c
 4. **Set Up the Virtual Environment** and install dependencies.
 5. **Configure the Web App Settings** to point to your `app.py`.
 
-### Screenshots
-
-![App Interface](path/to/screenshot.png)
-*Figure 1: Random Quote Generator Interface*
 
 ### GIF Demo
 
-![App Demo](path/to/demo.gif)
-*Figure 2: Demonstration of the Random Quote Generator in action*
+![til](assets/demo.gif)
+* Random Quote Generator Interface*
 
 ## License
 
