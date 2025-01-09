@@ -20,8 +20,8 @@ A Flask-based web application that provides random quotes from a CSV file. It de
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/random-quote-flask.git
-   cd random-quote-flask
+   git clone https://github.com/Minimaruva/Flask_Rand_Quote/tree/main
+   cd Flask_Rand_Quote
    ```
 
 2. **Create a Virtual Environment**
